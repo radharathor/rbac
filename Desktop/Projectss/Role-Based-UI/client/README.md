@@ -37,5 +37,5 @@ rbac-mern-project/
 Installation:-
 Clone the Repository:
 
-git clone https://github.com/username/rbac-project.git
+git clone https://github.com/ratharathor/rbac.git
 cd rbac-project
