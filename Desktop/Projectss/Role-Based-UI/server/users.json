@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "67436bcfc414cc83a86fb417",
+    "name": "radha rathore",
+    "email": "radharathore9340@gmail.com",
+    "password": "defaultpassword",
+    "role": "Editor",
+    "status": "Inactive",
+    "__v": 0
+  },
+  {
+    "_id": "6743732d8ec95523a6d5a044",
+    "name": "surekha",
+    "email": "surekha@123gmail.com",
+    "password": "defaultpassword",
+    "role": "Admin",
+    "status": "Active",
+    "__v": 0
+  }
+]
